@@ -57,7 +57,7 @@ Note:
 - If the field is named differently from "Percentage Off", you will need to set the actual name in the json policy config above changing the values of:
 
 ```
-        "PercentOffFieldNameInSitecore": "WeiPercentage Offght",
+        "PercentOffFieldNameInSitecore": "Percentage Off",
 
 ```
 
